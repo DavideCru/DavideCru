@@ -16,6 +16,12 @@ I am a passionate Data Science and Machine Learning student with a strong backgr
 ---
 [![](https://visitcount.itsvg.in/api?id=DavideCru&icon=0&color=0)](https://visitcount.itsvg.in)
 
+🏫Economics and Big Data student at RomaTre University
+
+📕IBM Data Science Professional Certificate - Coursera
+
+📘Machine Learning Specialization -  Stanfor
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
