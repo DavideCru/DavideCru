@@ -23,11 +23,6 @@ My academic journey has equipped me with skills in statistics, data analysis, an
 ---
 [![](https://visitcount.itsvg.in/api?id=DavideCru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏫Economics and Big Data student at RomaTre University
-
-📕IBM Data Science Professional Certificate - Coursera
-
-📘Machine Learning Specialization -  Stanfor
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
