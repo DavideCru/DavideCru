@@ -2,8 +2,8 @@
 # 💫 About Me:
 I am a passionate Data Science and Machine Learning student with a strong background in Economics and Big Data.
 
-🏫Bachelor's degree in Economics and Big Data - RomaTre University students (in the process of finishing)
-📙IBM Data Science Professional Certificate - Coursera (in progress)
+🏫Bachelor's degree in Economics and Big Data - RomaTre University students (in the process of finishing)<br><br>
+📙IBM Data Science Professional Certificate - Coursera (in progress)<br><br>
 📘Machine Learning Specialization of Stanford - Coursera (in progress)<br><br>
 
 My academic journey has equipped me with skills in statistics, data analysis, and predictive modeling. I have developed projects using Python, R, and other technologies to analyze and model economic and social data. I am also deeply interested in machine learning, and I am further enhancing my knowledge through certifications like IBM and Stanford.<br><br>I enjoy tackling practical challenges and solving real-world problems using predictive analytics and artificial intelligence. In the future, I aim to work as a Data Scientist in Big Tech or financial institutions, with the ambition to transition into a Machine Learning Engineer role.
