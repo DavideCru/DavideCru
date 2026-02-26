@@ -24,6 +24,8 @@ My academic journey has equipped me with skills in statistics, data analysis, an
 [![](https://visitcount.itsvg.in/api?id=DavideCru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens.git
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
