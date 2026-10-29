@@ -44,6 +44,7 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 - **A/B Test Analysis (SQL, BigQuery)** – *coming soon*
 - **[Statistical Analysis of Italian Consumption Patterns](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens)** – regression and clustering in R
 - **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – text classification in Python, tuned for zero false positives
+- 📜 Completing the **IBM Data Science Professional Certificate** (Coursera) – capstone project in progress
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Davide-Cruciani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davide.crucio04@gmail.com) 
