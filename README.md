@@ -1,6 +1,7 @@
 ## Hi, I'm Davide 👋
 
 MSc student in **Statistical Data Science** at **University College Dublin** (2026–2027), with a BSc in Economics and Big Data from Roma Tre University. <br>
+
 📜 Completing the **IBM Data Science Professional Certificate** (Coursera) – capstone in progress <br>
 
 I like turning messy data into clear answers: statistical modelling, experimentation and machine learning applied to real business questions.
