@@ -1,6 +1,7 @@
 ## Hi, I'm Davide 👋
 
 MSc student in **Statistical Data Science** at **University College Dublin** (2026–2027), with a BSc in Economics and Big Data from Roma Tre University.
+📜 Completing the **IBM Data Science Professional Certificate** (Coursera) – capstone in progress
 
 I like turning messy data into clear answers: statistical modelling, experimentation and machine learning applied to real business questions.
 
@@ -18,7 +19,6 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 
 ### 📂 Featured projects
 - **A/B Test Analysis (SQL, BigQuery)** – *coming soon*
-- Completing the **IBM Data Science Professional Certificate** (Coursera) – capstone project in progress
 - **[Statistical Analysis of Italian Consumption Patterns](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens)** – regression and clustering in R
 - **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – text classification in Python, tuned for zero false positives
 
