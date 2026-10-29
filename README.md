@@ -46,11 +46,7 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 - **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – text classification in Python, tuned for zero false positives
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide.crucio04@gmail.com)
----
-[![](https://visitcount.itsvg.in/api?id=DavideCru&icon=0&color=0)](https://visitcount.itsvg.in)
-
+(https://instagram.com/davide_cru_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Davide-Cruciani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davide.crucio04@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
