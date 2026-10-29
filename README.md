@@ -20,6 +20,34 @@ My academic journey has equipped me with skills in statistics, data analysis, an
 ![](https://nirzak-streak-stats.vercel.app/?user=DavideCru&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+## Hi, I'm Davide 👋
+
+MSc student in **Statistical Data Science** at **University College Dublin** (2026–2027), with a BSc in Economics and Big Data from Roma Tre University.
+
+I like turning messy data into clear answers: statistical modelling, experimentation and machine learning applied to real business questions.
+
+🎯 **Looking for a Summer 2027 internship** in Data Science / Product Analytics.
+
+### 🔧 Tech stack
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 Featured projects
+- **A/B Test Analysis (SQL, BigQuery)** – *coming soon*
+- **[Statistical Analysis of Italian Consumption Patterns](LINK)** – regression and clustering in R
+- **[Spam Detection with NLP & ML](LINK)** – text classification in Python, tuned for zero false positives
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide.crucio04@gmail.com)
 ---
 [![](https://visitcount.itsvg.in/api?id=DavideCru&icon=0&color=0)](https://visitcount.itsvg.in)
 
