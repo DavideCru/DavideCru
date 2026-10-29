@@ -42,8 +42,8 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 
 ### 📂 Featured projects
 - **A/B Test Analysis (SQL, BigQuery)** – *coming soon*
-- **[Statistical Analysis of Italian Consumption Patterns](LINK)** – regression and clustering in R
-- **[Spam Detection with NLP & ML](LINK)** – text classification in Python, tuned for zero false positives
+- **[Statistical Analysis of Italian Consumption Patterns](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens)** – regression and clustering in R
+- **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – text classification in Python, tuned for zero false positives
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
