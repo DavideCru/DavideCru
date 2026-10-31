@@ -20,7 +20,7 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 ### 📂 Featured projects
 - **[A/B Test Analysis — E-commerce Checkout](https://github.com/DavideCru/ab-test-checkout)** – End-to-end experiment in BigQuery SQL: SRM detection, CUPED, novelty effect
 - [Categorical Encoding and Data Leakage with Naive Bayes](https://github.com/DavideCru/naive-bayes-encoding-leakage) – Encoder comparison in Python: target encoding before the split inflates accuracy from 0.73 to 0.99
-- **Spam Detection with NLP & ML](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens) – Interpretable text classification in Python: zero false positives at 96.7% accuracy** – Regression and clustering in R
+- **[Spam Detection with NLP & ML](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens) – Interpretable text classification in Python: zero false positives at 96.7% accuracy** – Regression and clustering in R
 - **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – Text classification in Python, tuned for zero false positives
 
 ### 📫 Contact
