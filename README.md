@@ -18,7 +18,8 @@ I like turning messy data into clear answers: statistical modelling, experimenta
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📂 Featured projects
-- [A/B Test Analysis — E-commerce Checkout](https://github.com/DavideCru/ab-test-checkout) – End-to-end experiment in BigQuery SQL: SRM detection, CUPED, novelty effect
+- **[A/B Test Analysis — E-commerce Checkout](https://github.com/DavideCru/ab-test-checkout)** – End-to-end experiment in BigQuery SQL: SRM detection, CUPED, novelty effect
+- **[Categorical Encoding and Data Leakage with Naive Bayes](https://github.com/DavideCru/naive-bayes-encoding-leakage)**: compares one-hot, ordinal and CatBoost encoders on a 70k-row health survey and shows how fitting a target encoder before the train/test split inflates accuracy from 0.73 to 0.99. *Python, scikit-learn, pandas*
 - **[Statistical Analysis of Italian Consumption Patterns](https://github.com/DavideCru/Statistical-Analysis-Project-on-the-Consumption-Patterns-of-Italian-Citizens)** – Regression and clustering in R
 - **[Spam Detection with NLP & ML](https://github.com/DavideCru/Spam-Detection-using-NLP-and-Machine-Learning)** – Text classification in Python, tuned for zero false positives
 
